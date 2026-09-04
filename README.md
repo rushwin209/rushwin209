@@ -26,31 +26,28 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,nextjs,tailwind,html,css,git,github,docker,linux,vscode,postgres,mongodb" alt="Tech Stack" />
-
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,java,ts,react,nodejs,nextjs,tailwind,html,css,git,github,docker,linux,vscode,mongodb" alt="Tech Stack" />
+</p>
 
 </div>
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Analytics & Telemetry
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rushwin209&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushwin209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="assets/github_stats.svg" alt="GitHub Stats" width="380" />
+  &nbsp;&nbsp;
+  <img src="assets/top_languages.svg" alt="Top Languages" width="380" />
+</p>
 
-  <br/>
-
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushwin209&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</p>
+
 </div>
 
 ---
