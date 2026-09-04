@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="assets/sakura_tree.svg" width="100%" alt="Sakura Tree Art - Pink Leaves Falling" />
+  <img src="assets/tree.svg" width="90%" alt="Sakura Pixel Art Tree - Falling Pink Petals" />
 </div>
 
 <div align="center">
