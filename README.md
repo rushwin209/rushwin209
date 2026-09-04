@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,90&height=220&section=header&text=RUSHWIN&fontSize=80&fontAlignY=38&animation=twinkling&fontFamily=Parabole" width="100%" alt="Rushwin Banner"/>
+  <!-- Animated Header Banner with Authentic Parabole Typography -->
+  <img src="assets/header.svg" width="100%" alt="Rushwin - Parabole Typography Banner"/>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/rushwin209">
