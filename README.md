@@ -18,30 +18,9 @@
 
 ---
 
-### ⚡ `whoami` // System Diagnostics
-
-```bash
- ____________________________________________________________________
-|                                                                    |
-|         .------------------.       [ AI & ROBOTICS LAB ]           |
-|        /|  .------------.  |       =====================           |
-|       / |  | [01010011] |  |       > Machine & Deep Learning       |
-|      *==|  |  .==.  .==.|  |       > Neural Network Systems        |
-|      |  |  |  (oo)  (oo)|  |       > Computer Vision & LLMs        |
-|      |  |  |   ||    || |  |       > Autonomous Robotics & ROS     |
-|      |  |  |   '======' |  |                                       |
-|      |  |  '------------'  |       >>> neural_net.fit(x, y)        |
-|      |  |   [AI-TERMINAL]  |       >>> robot.execute(autonomy)     |
-|      |  |__________________|       [STATUS]: 100% OPERATIONAL      |
-|      | /                  /                                        |
-|      *-------------------*                                         |
-|____________________________________________________________________|
- [Host]: github.com/rushwin209
- [Status]: 🟢 ONLINE | Building next-gen software & exploring frontiers
- [Core Skills]: Full-Stack Architecture, Clean Code, Scalable Systems
- [Philosophy]: "Turn caffeine into code, and curiosity into innovation."
- ────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+  <img src="assets/sakura_tree.svg" width="100%" alt="Sakura Tree Art - Pink Leaves Falling" />
+</div>
 
 <div align="center">
 
