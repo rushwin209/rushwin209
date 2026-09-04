@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/rushwin209">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=50&lines=console.log(%22Hello%2C+World!%20%F0%9F%91%8B%22);Full+Stack+Developer+%26+Tech+Enthusiast;Building+Scalable+%26+Innovative+Solutions;Passionate+about+AI%2C+Cloud+%26+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=550&height=40&lines=crafting+software+with+intention+%26+precision;exploring+systems%2C+intelligence+%26+design;turning+complex+problems+into+elegant+code;welcome+to+my+digital+workspace" alt="Typing SVG" />
   </a>
 
   <p align="center">
